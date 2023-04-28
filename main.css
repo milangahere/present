@@ -40,6 +40,10 @@ li {
   height: 100%;
 }
 
+.text-right {
+  text-align: right;
+}
+
 .hidden {
   opacity: 0;
   transition: opacity 0.5s ease-in;
